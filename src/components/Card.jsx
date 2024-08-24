@@ -5,7 +5,7 @@ const Card = () => {
     <section className="grid grid-cols-1 lg:grid-cols-3 gap-14 px-4 lg:mb-20">
       <div className="flex flex-col items-center justify-center text-center">
         <img
-          src="./src/images/avatars/avatar-aryan.webp"
+          src="/images/avatars/avatar-aryan.webp"
           alt=""
           className="size-24 mb-4 rounded-full hover:scale-150 duration-300"
         />
@@ -18,17 +18,17 @@ const Card = () => {
         <h1 className="mb-1 font-bold md:text-lg">Aryan Singh</h1>
         <p className="mb-4 text-gray-500 md:text-base">SWE at Google</p>
         <div className="flex flex-row gap-1 mb-16">
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
         </div>
       </div>
 
       <div className="flex flex-col items-center justify-center text-center">
         <img
-          src="./src/images/avatars/avatar-kevin.webp"
+          src="/images/avatars/avatar-kevin.webp"
           alt=""
           className="size-24 mb-4 rounded-full hover:scale-150 duration-300"
         />
@@ -42,17 +42,17 @@ const Card = () => {
         <h1 className="mb-1 font-bold md:text-lg ">Kevin Smith</h1>
         <p className="mb-4 text-gray-500 md:text-base">SWE at Tesla</p>
         <div className="flex flex-row gap-1 mb-16">
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
         </div>
       </div>
 
       <div className="flex flex-col items-center justify-center text-center">
         <img
-          src="./src/images/avatars/avatar-umang.webp"
+          src="/images/avatars/avatar-umang.webp"
           alt=""
           className="size-24 mb-4 rounded-full hover:scale-150 duration-300"
         />
@@ -65,11 +65,11 @@ const Card = () => {
         <h1 className="mb-1 font-bold md:text-lg ">Umang Choudhary</h1>
         <p className="mb-4 text-gray-500 md:text-base">SWE at Tiktok</p>
         <div className="flex flex-row gap-1 mb-16">
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
-          <img className="md:size-6" src="./src/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
+          <img className="md:size-6" src="/images/icon-star.svg" alt="" />
         </div>
       </div>
     </section>

@@ -30,25 +30,21 @@ const Subscription = () => {
 
           <ul className="text-gray-600 md:grid md:grid-cols-2 md:gap-3">
             <li className="mb-3 flex gap-4">
-              <img src="./src/images/icon-check.svg" alt="" />
+              <img src="/images/icon-check.svg" alt="" />
               <p className="md:text-base md:-ml-2">Expert Mentors</p>
             </li>
             <li className="mb-3 flex gap-4">
-              <img src="./src/images/icon-check.svg" alt="" />
+              <img src="/images/icon-check.svg" alt="" />
               <p className="md:text-base md:-ml-2">Exclusive Courses</p>
             </li>
             <li className="mb-3 flex gap-4 ">
-              <img src="./src/images/icon-check.svg" alt="" />
+              <img src="/images/icon-check.svg" alt="" />
               <p className="md:text-base md:-ml-2">
                 Networking and collaboration
               </p>
             </li>
             <li className="mb-3 flex gap-4 lg:items-center">
-              <img
-                className="lg:w-4"
-                src="./src/images/icon-check.svg"
-                alt=""
-              />
+              <img className="lg:w-4" src="/images/icon-check.svg" alt="" />
               <p className="md:text-base md:-ml-2">Career Guidance</p>
             </li>
           </ul>
@@ -67,27 +63,27 @@ const Subscription = () => {
           <div className="mb-3 flex size-10 justify-center items-center ">
             <img
               className="rounded-full"
-              src="./src/images/avatars/avatar-aryan.webp"
+              src="/images/avatars/avatar-aryan.webp"
               alt=""
             />
             <img
               className="-ml-3 rounded-full"
-              src="./src/images/avatars/avatar-kevin.webp"
+              src="/images/avatars/avatar-kevin.webp"
               alt=""
             />
             <img
               className="-ml-3 rounded-full"
-              src="./src/images/avatars/avatar-umang.webp"
+              src="/images/avatars/avatar-umang.webp"
               alt=""
             />
             <img
               className="-ml-3 rounded-full"
-              src="./src/images/avatars/avatar-1.png"
+              src="/images/avatars/avatar-1.png"
               alt=""
             />
             <img
               className="-ml-3 rounded-full"
-              src="./src/images/avatars/avatar-2.png"
+              src="/images/avatars/avatar-2.png"
               alt=""
             />
           </div>

@@ -5,7 +5,7 @@ const Header = () => {
     <nav className="w-full p-4 mb-14 bg-white sticky top-0 left-0 flex justify-between md:items-center">
       <img
         className="w-[100px] md:w-[125px] md:h-[55px] md:m-2"
-        src="./src/images/logo.svg"
+        src="images/logo.svg"
         alt=""
       />
       <div className="hidden md:flex text-gray-500">

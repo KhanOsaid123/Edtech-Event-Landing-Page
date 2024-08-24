@@ -13,7 +13,7 @@ const Feature = () => {
         <div className="flex flex-col justify-center items-center">
           <img
             className="md:mb-6  lg:hover:-translate-y-12 lg:duration-300"
-            src="./src/images/illustration-mentors.svg"
+            src="/images/illustration-mentors.svg"
             alt=""
           />
           <h1 className="text-2xl font-bold">EXPERT MENTORS</h1>
@@ -25,7 +25,7 @@ const Feature = () => {
         <div className="flex flex-col justify-center items-center">
           <img
             className="md:mb-6 lg:hover:-translate-y-12 lg:duration-300"
-            src="./src/images/illustration-networking.svg"
+            src="/images/illustration-networking.svg"
             alt=""
           />
           <h1 className="text-2xl font-bold">NETWORKING</h1>
@@ -37,7 +37,7 @@ const Feature = () => {
         <div className="flex flex-col justify-center items-center">
           <img
             className="md:mb-6 lg:hover:-translate-y-12 lg:duration-300"
-            src="./src/images/illustration-courses.svg"
+            src="/images/illustration-courses.svg"
             alt=""
           />
           <h1 className="text-2xl font-bold">COURSES</h1>
@@ -50,32 +50,32 @@ const Feature = () => {
       <div className="mb-14 flex flex-wrap justify-center items-center md:gap-5 lg:gap-8 md:px-10 md:mb-28 gap-5">
         <img
           className="md:w-auto md:h-8 lg:w-auto lg:h-10"
-          src="./src/images/company-logos/adobe.svg"
+          src="/images/company-logos/adobe.svg"
           alt=""
         />
         <img
           className="md:w-auto md:h-8 lg:w-auto lg:h-10"
-          src="./src/images/company-logos/airbnb.svg"
+          src="/images/company-logos/airbnb.svg"
           alt=""
         />
         <img
           className="md:w-auto md:h-8 lg:w-auto lg:h-10"
-          src="./src/images/company-logos/figma.svg"
+          src="/images/company-logos/figma.svg"
           alt=""
         />
         <img
           className="md:w-auto md:h-8 lg:w-auto lg:h-10"
-          src="./src/images/company-logos/framer.svg"
+          src="/images/company-logos/framer.svg"
           alt=""
         />
         <img
           className="md:w-auto md:h-8 lg:w-auto lg:h-10"
-          src="./src/images/company-logos/google.svg"
+          src="/images/company-logos/google.svg"
           alt=""
         />
         <img
           className="md:w-auto md:h-8 lg:w-auto lg:h-10"
-          src="./src/images/company-logos/dropbox.svg"
+          src="/images/company-logos/dropbox.svg"
           alt=""
         />
       </div>
@@ -96,24 +96,20 @@ const Feature = () => {
           </h1>
           <ul className="mb-12 flex flex-col lg:flex-col md:px-24 lg:px-10 lg:items-start items-center">
             <li className="flex flex-col lg:flex-row lg:gap-2 justify-center items-center">
-              <img
-                className="mb-3"
-                src="./src/images/icon-guides-2.svg"
-                alt=""
-              />
+              <img className="mb-3" src="/images/icon-guides-2.svg" alt="" />
               <p className="mb-6 lg:mb-4 text-gray-500 text-lg font-medium">
                 Comprehensive guides,projects,& courses
               </p>
             </li>
             <li className="flex flex-col lg:flex-row lg:gap-2 justify-center items-center">
-              <img className="mb-3" src="./src/images/icon-job.svg" alt="" />
+              <img className="mb-3" src="/images/icon-job.svg" alt="" />
               <p className="mb-6 lg-mb-4 text-gray-500 text-lg font-medium">
                 Exclusive job + internship postings
               </p>
             </li>
 
             <li className="flex flex-col lg:flex-row lg:gap-2 justify-center items-center">
-              <img className="mb-3" src="./src/images/icon-tips.svg" alt="" />
+              <img className="mb-3" src="/images/icon-tips.svg" alt="" />
               <p className="mb-8 lg:mb-4 text-gray-500 text-lg font-medium">
                 1:1 Career guidance & mentorship
               </p>
@@ -123,7 +119,7 @@ const Feature = () => {
         <div className="mb-12 flex flex-col justify-center items-center text-center">
           <img
             className="lg:size-[450px] lg:hover:rotate-6 lg:duration-300 "
-            src="./src/images/illustration-job.svg"
+            src="/images/illustration-job.svg"
             alt=""
           />
         </div>

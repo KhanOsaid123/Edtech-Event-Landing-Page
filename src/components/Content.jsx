@@ -14,32 +14,32 @@ const Content = () => {
             hackers,and more in our 24/7 WhatsApp Group for less than a cop of
             coffee
           </p>
-          <button className="p-4 my-4 bg-lime-600 rounded-full w-full md:w-auto lg:items-start md:px-8 md:text-lg text-white font-bold">
+          <button className="p-4 my-4 bg-lime-600 rounded-full w-full md:w-auto  md:px-8 md:text-lg text-white font-bold">
             Join 24/7 WhatsApp + discord for $5/Month
           </button>
         </div>
 
         <img
-          src="./src/images/hero-illustration.png"
+          src="/images/hero-illustration.png"
           alt=""
           className="p-5 mb-6 md:mb-[80px] lg:mb-0"
         />
       </div>
       <ul className="flex flex-wrap items-center justify-center md:gap-x-6 md:gap-y-2 lg:gap-x-0 text-gray-700 text-xl font-medium mb-8">
         <li className="flex gap-4 m-4">
-          <img src="./src/images/icon-guides.svg" alt="" />
+          <img src="/images/icon-guides.svg" alt="" />
           <p>5+ Guides for Free</p>
         </li>
         <li className="flex gap-4 m-4">
-          <img src="./src/images/icon-courses.svg" alt="" />
+          <img src="/images/icon-courses.svg" alt="" />
           <p>Exclusive Courses & Projects</p>
         </li>
         <li className="flex gap-4 m-4">
-          <img src="./src/images/icon-whatsapp.svg" alt="" />
+          <img src="/images/icon-whatsapp.svg" alt="" />
           <p>24/7 WhastApp Support Group</p>
         </li>
         <li className="flex gap-4 m-4">
-          <img src="./src/images/icon-sessions.svg" alt="" />
+          <img src="/images/icon-sessions.svg" alt="" />
           <p>1:1 Free Sessions</p>
         </li>
       </ul>
